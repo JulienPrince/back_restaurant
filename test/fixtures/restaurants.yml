@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom_restaurant: 
+  prix: MyString
+  adress: MyString
+  photo: MyString
+  speciality: MyString
+  user: one
+  upload: false
+
+two:
+  nom_restaurant: 
+  prix: MyString
+  adress: MyString
+  photo: MyString
+  speciality: MyString
+  user: two
+  upload: false
