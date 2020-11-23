@@ -18,7 +18,7 @@ rails db:migration
 rails s
 ```
 
-### functionaliter
+### fonctionnaliter
 
 - Authentification (client simple et restaurateur)
 - gestion de role
