@@ -17,3 +17,11 @@ rails db:migration
 ```bash
 rails s
 ```
+
+### functionaliter
+
+- Authentification (client simple et restaurateur)
+- gestion de role
+- commentaire
+- restaurateur back_office
+- reservation (CRUD)
