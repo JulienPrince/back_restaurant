@@ -25,3 +25,4 @@ rails s
 - commentaire
 - restaurateur back_office
 - reservation (CRUD)
+- recherch
